@@ -1,0 +1,1 @@
+# Investigaci-n-T-cnica-Componentes-Esenciales
