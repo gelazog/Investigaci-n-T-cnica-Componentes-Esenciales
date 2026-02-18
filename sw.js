@@ -1,5 +1,5 @@
 const CACHE_NAME = 'mi-app-v1';
-const ASSETS = ['/', '/index.html', '/styles.css', '/app.js'];
+const ASSETS = ['/', '/index.html', '/app.js'];
 
 // INSTALL: cachear el App Shell
 self.addEventListener('install', event => {
