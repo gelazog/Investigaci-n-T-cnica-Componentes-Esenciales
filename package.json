@@ -1,0 +1,21 @@
+{
+  "name": "investigaci-n-t-cnica-componentes-esenciales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelazog/Investigaci-n-T-cnica-Componentes-Esenciales.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gelazog/Investigaci-n-T-cnica-Componentes-Esenciales/issues"
+  },
+  "homepage": "https://github.com/gelazog/Investigaci-n-T-cnica-Componentes-Esenciales#readme"
+}
